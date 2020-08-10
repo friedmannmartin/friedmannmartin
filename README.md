@@ -1,19 +1,7 @@
-### Hi there, I´m Martin 👋
+### Hi there, I´m [Martin!](http://martin.friedmann.cz) 👋
 
-<!--
-**friedmannmartin/friedmannmartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on my Masters Degree in Computer Science
-- 🌱 I’m currently learning how to build great web apps
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with javascript
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+- 🔭 I’m currently working on my Masters Degree in Information Systems and Technology
+- 🌱 I’m currently learning how to build Javascript/TypeScript
 
 ### You can reach here:
 
