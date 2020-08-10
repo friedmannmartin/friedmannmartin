@@ -1,7 +1,7 @@
 ### Hi there, I´m [Martin!](http://martin.friedmann.cz) 👋
 
 - 🔭 I’m currently working on my Masters Degree in Information Systems and Technology
-- 🌱 I’m currently learning how to build Javascript/TypeScript
+- 🌱 I’m currently learning Swift
 
 ### You can reach here:
 
