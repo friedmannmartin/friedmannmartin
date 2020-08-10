@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="friedmannmartin’s GitHub stats" src="https://github-readme-stats.vercel.app/api?username=friedmannmartin&hide=stars,issues&count_private=true&show_icons=true">
 <br />
+<br />
 
 ---
 
