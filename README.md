@@ -44,6 +44,8 @@ Here are some ideas to get you started:
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=friedmannmartin&hide=stars,issues&count_private=true&show_icons=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=friedmannmartin)
+
 [website]: https://martin.friedmann.cz
 [linkedin]: https://linkedin.com/in/martin-friedmann/
 [facebook]: https://www.facebook.com/martin.friedmann/
