@@ -29,6 +29,7 @@
 
 <br />
 <br />
+<br />
 
 <img align="center" alt="friedmannmartin’s GitHub stats" src="https://github-readme-stats.vercel.app/api?username=friedmannmartin&hide=stars&count_private=true&show_icons=true"/>  <img align="center" alt="friedmannmartin’s GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=friedmannmartin&layout=compact"/>
 
