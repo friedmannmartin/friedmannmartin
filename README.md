@@ -41,8 +41,7 @@ Here are some ideas to get you started:
 
 ---
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=friedmannmartin)](https://github.com/friedmannmartin/github-readme-stats)
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=friedmannmartin)
 
 [website]: https://martin.friedmann.cz
 [linkedin]: https://linkedin.com/in/martin-friedmann/
