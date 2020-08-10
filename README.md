@@ -44,13 +44,11 @@ Here are some ideas to get you started:
 
 ---
 
-<img align="left" alt="friedmannmartin’s GitHub stats" src="https://github-readme-stats.vercel.app/api?username=friedmannmartin&hide=stars,issues&count_private=true&show_icons=true">
-
-<br />
+<img alt="friedmannmartin’s GitHub stats" src="https://github-readme-stats.vercel.app/api?username=friedmannmartin&hide=stars,issues&count_private=true&show_icons=true">
 
 ---
 
-<img align="left" alt="friedmannmartin’s GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=friedmannmartin&layout=compact">
+<img alt="friedmannmartin’s GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=friedmannmartin&layout=compact">
 
 [website]: https://martin.friedmann.cz
 [linkedin]: https://linkedin.com/in/martin-friedmann/
