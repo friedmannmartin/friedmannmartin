@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Martin Friedmann | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 <br />
+<br />
 
 ### Languages and Tools I use:
 
@@ -40,9 +41,11 @@ Here are some ideas to get you started:
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+<br />
 
 <img align="left" alt="friedmannmartin’s GitHub stats" src="https://github-readme-stats.vercel.app/api?username=friedmannmartin&hide=stars,issues&count_private=true&show_icons=true">
 
+<br />
 <br />
 
 <img align="left" alt="friedmannmartin’s GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=friedmannmartin&layout=compact">
