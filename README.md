@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 
 
-[website]: https://martin@friedmann.cz
+[website]: https://martin.friedmann.cz
 [linkedin]: https://linkedin.com/in/martin-friedmann/
 [facebook]: https://www.facebook.com/martin.friedmann/
 [youtube]: https://www.youtube.com/c/MartinFriedmannHunter/
