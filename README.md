@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I´m [Martin!](http://martin.friedmann.cz) 👋</h1>
+<h1 align="center">Hi there, I´m <a href="http://martin.friedmann.cz">Martin!</a>👋</h1>
 
 ---
 
