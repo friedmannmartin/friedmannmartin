@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my Masters Degree in Information Systems and Technology
 - 🌱 I’m currently learning Swift
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=friedmannmartin.friedmannmartin)
 
 ### You can reach me here:
 
