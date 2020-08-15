@@ -3,6 +3,8 @@
 - 🔭 I’m currently working on my Masters Degree in Information Systems and Technology
 - 🌱 I’m currently learning Swift
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 ### You can reach me here:
 
 [<img align="left" alt="martin.friedmann.cz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
