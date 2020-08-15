@@ -1,14 +1,9 @@
 <h1 align="center">Hi there, I´m <a href="http://martin.friedmann.cz">Martin!</a>👋</h1>
-
-- 🔭 I’m currently working on my Masters Degree in Information Systems and Technology
-- 🌱 I’m currently learning Swift
-
-### You can reach me here:
+☕ Tea guy | 🐱‍👤 Cat person | 🦇 Nocturnal creature
 
 [<img align="left" alt="martin.friedmann.cz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Martin Friedmann | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Martin Friedmann | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Martin Friedmann | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 <br />
 
