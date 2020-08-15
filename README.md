@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my Masters Degree in Information Systems and Technology
 - 🌱 I’m currently learning Swift
 
-### You can reach here:
+### You can reach me here:
 
 [<img align="left" alt="martin.friedmann.cz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Martin Friedmann | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
