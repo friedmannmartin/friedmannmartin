@@ -2,10 +2,6 @@
 
 <h4 align="center">☕ Tea guy | 🐱‍👤 Cat person | 🦇 Nocturnal creature</h4>
 
-[<img align="center" alt="martin.friedmann.cz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] |
-[<img align="center" alt="Martin Friedmann | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] |
-[<img align="center" alt="Martin Friedmann | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-
 <br />
 
 ### Languages and Tools I use:
@@ -34,6 +30,11 @@
 <br />
 
 <img align="center" alt="friedmannmartin’s GitHub stats" src="https://github-readme-stats.friedmannmartin.vercel.app/api?username=friedmannmartin&hide=stars&count_private=true&show_icons=true"/> <img align="center" alt="friedmannmartin’s GitHub stats" src="https://github-readme-stats.friedmannmartin.vercel.app/api/top-langs/?username=friedmannmartin&layout=compact"/>
+
+
+[<img align="center" alt="martin.friedmann.cz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="center" alt="Martin Friedmann | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="Martin Friedmann | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 [website]: https://martin.friedmann.cz
 [linkedin]: https://linkedin.com/in/martin-friedmann/
