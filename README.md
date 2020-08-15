@@ -1,7 +1,5 @@
 <h1 align="center">Hi there, I´m <a href="http://martin.friedmann.cz">Martin!</a>👋</h1>
 
----
-
 - 🔭 I’m currently working on my Masters Degree in Information Systems and Technology
 - 🌱 I’m currently learning Swift
 
