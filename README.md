@@ -1,4 +1,6 @@
-### Hi there, I´m [Martin!](http://martin.friedmann.cz) 👋
+<h1 align="center">Hi there, I´m [Martin!](http://martin.friedmann.cz) 👋</h1>
+
+---
 
 - 🔭 I’m currently working on my Masters Degree in Information Systems and Technology
 - 🌱 I’m currently learning Swift
