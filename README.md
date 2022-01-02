@@ -33,10 +33,13 @@
 ### Where you can reach me:
 
 [<img align="left" alt="martin.friedmann.cz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Martin Friedmann | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Martin Friedmann | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Martin Friedmann | LinkedIn"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Martin Friedmann | Facebook"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Martin Friedmann | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 [website]: https://martin.friedmann.cz
 [linkedin]: https://linkedin.com/in/martin-friedmann/
 [facebook]: https://www.facebook.com/martin.friedmann/
+[instagram]: https://www.instagram.com/friedmann.m/
 [youtube]: https://www.youtube.com/c/MartinFriedmannHunter/
